@@ -1,6 +1,6 @@
 - 👋 Olá, Eu sou a Daniela!
 - 👀 Eu me interesso por livros, anime, hq's, séries e é claro, 💞️ PROGRAMAÇÃO 💞️!
-- 🌱 No momento estou aprendo VUEjs
+- 🌱 No momento estou aprendo React
 - 📫 Contatos: danni.oliver94@gmail.com.
 
 <!---
