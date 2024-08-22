@@ -1,6 +1,6 @@
 - 👋 Olá, Eu sou a Daniela!
-- 👀 Eu me interesso por livros, anime, hq's, séries e é claro, 💞️ PROGRAMAÇÃO 💞️!
-- 🌱 No momento estou aprendo React
+- 👀 Eu me interesso por jogos,animais,séries e filmes de ficção ciêntifica anime, hq's e é claro, 💞️ PROGRAMAÇÃO 💞️!
+- 🌱 No momento estou aprendendo Angular e Node
 - 📫 Contatos: danni.oliver94@gmail.com.
 
 <!---
